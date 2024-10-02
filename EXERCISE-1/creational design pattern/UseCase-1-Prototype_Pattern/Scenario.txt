@@ -1,0 +1,3 @@
+Use Case 3: Prototype Pattern
+
+Scenario: A shape system where users can clone existing shapes (Rectangle, Circle) to create new ones.
