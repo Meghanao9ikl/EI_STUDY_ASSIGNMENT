@@ -1,0 +1,3 @@
+Use Case 2: State Pattern
+
+Scenario: A vending machine that behaves differently based on its state (Idle, Selecting Item, Dispensing Item).
