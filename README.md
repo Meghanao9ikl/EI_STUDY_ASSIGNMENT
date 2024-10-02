@@ -56,16 +56,22 @@ This project implements a **Smart Home System** simulation, allowing users to co
 
 ## Instructions to Run the Projects
 
+## Running the Project
+
 ### Prerequisites
+- Ensure **Java 8** or a newer version is installed on your system.
 
-- Java 8 or a more recent version should be installed.
+### Steps to Run both Exercise 1 and Exercise 2
 
-### Steps to Execute
-
-1. **Clone this repository** to your local system.
-2. **Navigate to the project directory** where the files are stored.
-3. **Compile the Java files** using `javac`.
-4. **Run the application** using the `java` command.
-
----
-
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/Meghanao9ikl/EI_STUDY_ASSIGNMENT.git
+2. **Navigate to project directory**
+   ```bash
+   cd MarsRoverSimulation
+4. **Compile the java files**
+   ```bash
+   javac *.java
+6. **Run the Application**
+   ```bash
+   java Main
