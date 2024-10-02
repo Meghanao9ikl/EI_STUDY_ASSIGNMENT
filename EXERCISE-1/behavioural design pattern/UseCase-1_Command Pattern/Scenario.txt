@@ -1,0 +1,3 @@
+Use Case 1: Command Pattern
+
+Scenario: A remote control for a home automation system that can turn on or off different devices like lights and fans
